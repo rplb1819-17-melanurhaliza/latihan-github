@@ -3,3 +3,4 @@ rencana belajar
   - belajar materi utbk
     ^pengetahuan kuantitatif
     ^penalaran
+  - beajar matematika
