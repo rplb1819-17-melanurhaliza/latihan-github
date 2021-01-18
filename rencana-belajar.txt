@@ -3,6 +3,7 @@ rencana belajar
   - belajar materi utbk
     ^pengetahuan kuantitatif
       *aljabar
+      *bilangan bulat
     ^penalaran
   - belajar matematika
     *trigonometri
