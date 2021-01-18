@@ -2,5 +2,9 @@ rencana belajar
   - belajar buat ukom
   - belajar materi utbk
     ^pengetahuan kuantitatif
+      *aljabar
+      *bilangan bulat
     ^penalaran
-  - beajar matematika
+  - belajar matematika
+    *trigonometri
+  - belajar biologi
